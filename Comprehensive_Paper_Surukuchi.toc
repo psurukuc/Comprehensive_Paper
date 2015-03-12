@@ -9,8 +9,8 @@
 \contentsline {subsection}{\numberline {2.3}blahblah}{2}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Possible reasons for anomalies}{2}{subsection.2.4}
 \contentsline {section}{\numberline {3}PROSPECT}{2}{section.3}
-\contentsline {subsection}{\numberline {3.1}Location selection etc}{2}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Background}{2}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Detector characterisitcs}{2}{subsection.3.3}
-\contentsline {section}{\numberline {4}Proposed PhD research}{2}{section.4}
-\contentsline {section}{\numberline {5}Current work}{2}{section.5}
+\contentsline {subsection}{\numberline {3.1}Location selection etc}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Background}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Detector characterisitcs}{3}{subsection.3.3}
+\contentsline {section}{\numberline {4}Proposed PhD research}{3}{section.4}
+\contentsline {section}{\numberline {5}Current work}{3}{section.5}
