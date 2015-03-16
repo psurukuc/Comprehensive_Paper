@@ -1,19 +1,27 @@
+% Font size 11 and article type.
 \documentclass[11pt]{article}
+% For managing pictures, making various arrangements of equations easier to use and also makes them prettier
+% Can use ams for creating own matjematical operators using \DeclareMathOperator (Also check \newcommand)
 \usepackage{graphicx,amsmath,amsthm,amssymb,amsfonts}
+%For references
 \usepackage{hyperref}
+% For managing colors
 \usepackage{xcolor}
+%Date time management 
 \usepackage{datetime}
 % Package for citing, reduces several authors to et al.
 \usepackage{hepparticles}
-
+% Setup for color displays of hyperlinks, change the values to get different colors.
 \hypersetup{
     colorlinks,
     linkcolor={red!50!black},
     citecolor={blue!50!black},
     urlcolor={blue!80!black}
 }
-\usepackage{cite}
+% Package for citing, not needed as long as we have heparticles package, I think.
+%\usepackage{cite}
 \author{Pranava Teja Surukuchi \\ Illinois Institute of Technology\\ Chicago, IL 60616}
+% Needs to be changed sounds phony
 \title{Measurement of reactor flux at short baseline in search for possible oscillations arising from the existence of eV-scale sterile neutrinos}
 \newdate{date}{30}{04}{2015}
 \date{\displaydate{date}}
@@ -25,6 +33,7 @@
 \begin{document}
 \maketitle
 \begin{center}
+% Not sure about this either
 \textit{(in partial fulfillment of comprehensive exam for Doctor of Philosophy in Physics)}
 \end{center}
 \newpage
@@ -32,38 +41,58 @@
 \tableofcontents
 
 \section{Neutrinos Background and theory}
+Neutrinos are a type of subatomic particles and as far as we know are one of the fundamental particles that make up the universe. According to the standard model of particle physics, neutrinos are light weight leptons that can only interact via weak and gravitational force. 	
 
-\subsection{History}
+\subsection{Postulation and discovery}
+History of neutrinos can be traced back to the discovery of radioactivity. After the discovery of radioactive decay,  the radioactive decay radioactive displacement law was formulated by Soddy and Fajans(cite) to described the products of alpha and beta decays. Measurements of beta decay spectrum in several experiments including measurement of spectrum of beta decay by James Chadwick show that it is continuous. Further the spin of Nitrogen, in contradiction to Rutherford's prediction(cite), turned out to be one (cite). To explain these discrepancies, Wolfgang Pauli(cite) in 1931, postulated existence of a subatomic particle, which he called neutron. Fermi's theory of Beta decay added further strong theoretical foundations for existence of Neutrino. But it was not until 1951 
 
-\subsection{phenomenology}
+\subsection{Phenomenology}
 
-\subsection{Establishment of certain properties in Neutrinos}
 
-\subsection{Reactor Neutrino experiments}
+\subsection{Uncovering of neutrino properties}
 
-\section{Anomalies}
+\subsection{Role of reactors in neutrino experiments}
+
+\section{Anomalies and potential for new physics}
 
 \subsection{Reactor Antineutrino anomaly }
 
-\subsection{all others}
+\subsection{Various other observational discrepancies}
 
-\subsection{blahblah}
+\subsection{Possible explanations for observed anomalies}
 
-\subsection{Possible reasons for anomalies}
+\subsection{Sterile neutrino phenomenology}
 
-\section{PROSPECT}
+\section{PROSPECT experiment}
 
 \cite{2013arXiv1309.7647A}
 
-\subsection{Location selection etc}
+\subsection{Physics Goals}
 
-\subsection{Background}
+\subsection{Reactor location and backgrounds}
 
-\subsection{Detector characterisitcs}
+\subsection{Detector Design}
 
 \section{Proposed PhD research}
 
+\subsection{Software}
+
+\subsection{Hardware}
+
+\subsection{Timeline}
+
 \section{Current work}
+
+\subsection{Characterization of detector material}
+
+\subsection{Investigation of structural and mechanical properties of segmentation design}
+
+\subsection{Identification of PSD method}
+
+\subsection{Covariance matrix method for identification of effects of varying properties of the detector}
+
+\subsection{}
+
 
 \bibliographystyle{h-physrev}
 \bibliography{References}
