@@ -3,44 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Comprehensive_Paper_Surukuchi.aux
 The style file: h-physrev.bst
 Database file #1: References.bib
-You've used 1 entry,
+Warning--I didn't find a database entry for "fig:frac"
+Warning--I didn't find a database entry for "fig:covariance"
+ptr=1, stack=
+H.~Kwon, F.~Boehm, and A.~Hahn
+---the literal stack isn't empty for entry kwon1981experimental
+while executing---line 944 of file h-physrev.bst
+You've used 49 entries,
             1946 wiz_defined-function locations,
-            604 strings with 6066 characters,
-and the built_in function-call counts, 172 in all, are:
-= -- 10
-> -- 10
+            918 strings with 24339 characters,
+and the built_in function-call counts, 9842 in all, are:
+= -- 663
+> -- 480
 < -- 0
-+ -- 4
-- -- 2
-* -- 11
-:= -- 31
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 0
++ -- 173
+- -- 98
+* -- 777
+:= -- 1269
+add.period$ -- 49
+call.type$ -- 49
+change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 10
-empty$ -- 16
-format.name$ -- 3
-if$ -- 35
+cite$ -- 49
+duplicate$ -- 515
+empty$ -- 1000
+format.name$ -- 147
+if$ -- 2308
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 7
-num.names$ -- 1
-pop$ -- 5
+int.to.str$ -- 49
+missing$ -- 49
+newline$ -- 200
+num.names$ -- 49
+pop$ -- 230
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 6
+skip$ -- 465
 stack$ -- 0
-substring$ -- 0
-swap$ -- 2
+substring$ -- 588
+swap$ -- 138
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 1
-width$ -- 2
-write$ -- 10
+while$ -- 91
+width$ -- 51
+write$ -- 353
+(There was 1 error message)

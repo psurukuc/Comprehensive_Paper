@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 MAR 2015 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  25 APR 2015 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -136,6 +136,10 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -338,45 +342,108 @@ Package: maybemath 2005/2/22
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
-\symboldoperators=\mathgroup6
-\symboldletters=\mathgroup7
-\symboldsymbols=\mathgroup8
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
 LaTeX Info: Redefining \bm on input line 203.
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2012/05/15 v0.3 Package to support minimal working examples (MWE)
 
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count137
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count138
+\c@Blindtext=\count139
+\c@blind@countparstart=\count140
+\blind@countxx=\count141
+\blindtext@numBlindtext=\count142
+\blind@countyy=\count143
+\c@blindlist=\count144
+\c@blindlistlevel=\count145
+\c@blindlist@level=\count146
+\blind@listitem=\count147
+\c@blind@listcount=\count148
+\c@blind@levelcount=\count149
+\blind@mathformula=\count150
+\blind@Mathformula=\count151
+\c@blind@randomcount=\count152
+\c@blind@randommax=\count153
+\c@blind@pangramcount=\count154
+\c@blind@pangrammax=\count155
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count156
+Package caption Info: hyperref package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen125
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks28
+\extratabsurround=\skip50
+\backup@length=\skip51
+))
 (./Comprehensive_Paper_Surukuchi.aux)
 \openout1 = `Comprehensive_Paper_Surukuchi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count137
-\scratchdimen=\dimen118
+\scratchcounter=\count157
+\scratchdimen=\dimen128
 \scratchbox=\box28
-\nofMPsegments=\count138
-\nofMParguments=\count139
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count140
-\MPscratchDim=\dimen119
-\MPnumerator=\count141
-\makeMPintoPDFobject=\count142
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count158
+\nofMParguments=\count159
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count160
+\MPscratchDim=\dimen129
+\MPnumerator=\count161
+\makeMPintoPDFobject=\count162
+\everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -384,7 +451,7 @@ Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
@@ -393,7 +460,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 33.
+Package hyperref Info: Link coloring ON on input line 46.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -401,25 +468,32 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count143
+\c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (./Comprehensive_Paper_Surukuchi.out) (./Comprehensive_Paper_Surukuchi.out)
 \@outlinefile=\write3
 \openout3 = `Comprehensive_Paper_Surukuchi.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 49.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -427,42 +501,290 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `Comprehensive_Paper_Surukuchi.toc'.
 
- [2] [3]
-(./Comprehensive_Paper_Surukuchi.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
- (./Comprehensive_Paper_Surukuchi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+ [2] (./Comprehensive_Paper_Surukuchi.lof)
+\tf@lof=\write5
+\openout5 = `Comprehensive_Paper_Surukuchi.lof'.
+
+(./Comprehensive_Paper_Surukuchi.lot)
+\tf@lot=\write6
+\openout6 = `Comprehensive_Paper_Surukuchi.lot'.
+
+ [3] [4]
+<./sources.PNG, id=175, 864.22874pt x 566.115pt>
+File: ./sources.PNG Graphic file (type png)
+ <use ./sources.PNG>
+Package pdftex.def Info: ./sources.PNG used on input line 116.
+(pdftex.def)             Requested size: 345.8173pt x 226.52837pt.
+
+<./hierarchy.PNG, id=180, 699.61375pt x 552.0625pt>
+File: ./hierarchy.PNG Graphic file (type png)
+ <use ./hierarchy.PNG>
+Package pdftex.def Info: ./hierarchy.PNG used on input line 125.
+(pdftex.def)             Requested size: 172.90535pt x 136.43161pt.
+
+[5 <./sources.PNG>] [6 <./hierarchy.PNG>] [7] [8]
+<./Oscillations.PNG, id=255, 761.84625pt x 370.38374pt>
+File: ./Oscillations.PNG Graphic file (type png)
+
+<use ./Oscillations.PNG>
+Package pdftex.def Info: ./Oscillations.PNG used on input line 207.
+(pdftex.def)             Requested size: 345.8173pt x 168.1236pt.
+ [9] [10 <./Oscillations.PNG>]
+<./KamLAND_Spectrum.PNG, id=283, 931.48pt x 708.6475pt>
+File: ./KamLAND_Spectrum.PNG Graphic file (type png)
+
+<use ./KamLAND_Spectrum.PNG>
+Package pdftex.def Info: ./KamLAND_Spectrum.PNG used on input line 225.
+(pdftex.def)             Requested size: 211.81467pt x 161.13646pt.
+
+<./KamLAND_Parameters.PNG, id=284, 703.62875pt x 641.39626pt>
+File: ./KamLAND_Parameters.PNG Graphic file (type png)
+
+<use ./KamLAND_Parameters.PNG>
+Package pdftex.def Info: ./KamLAND_Parameters.PNG used on input line 229.
+(pdftex.def)             Requested size: 211.81467pt x 193.07608pt.
+ [11 <./KamLAND_Spectrum.PNG> <./KamLAND_Parameters.PNG>]
+Overfull \hbox (7.97282pt too wide) in paragraph at lines 241--242
+\OT1/cmr/m/n/10.95 sin-gle far de-tec-tor pre-sented its ini-tial mea-sure-ment
+s of $[][] \OML/cmm/m/it/10.95 ^^R[] \OT1/cmr/m/n/10.95 = 0\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 086[][][][]$
+ []
+
+<./Dayabay_Results.PNG, id=308, 1250.6725pt x 399.4925pt>
+File: ./Dayabay_Results.PNG Graphic file (type png)
+
+<use ./Dayabay_Results.PNG>
+Package pdftex.def Info: ./Dayabay_Results.PNG used on input line 247.
+(pdftex.def)             Requested size: 432.26999pt x 138.07498pt.
+
+Overfull \hbox (6.50948pt too wide) in paragraph at lines 252--252
+[]\OT1/cmr/bx/n/14.4 Reactor an-tineu-trino anomaly and po-ten-tial for new phy
+sics 
+ []
+
+[12 <./Dayabay_Results.PNG>]
+<./Reactor_Anomaly.PNG, id=329, 805.0075pt x 547.04375pt>
+File: ./Reactor_Anomaly.PNG Graphic file (type png)
+
+<use ./Reactor_Anomaly.PNG>
+Package pdftex.def Info: ./Reactor_Anomaly.PNG used on input line 258.
+(pdftex.def)             Requested size: 345.8173pt x 234.99884pt.
+ [13] <./DL.PNG, id=342, 779.91376pt x 532.99126pt>
+File: ./DL.PNG Graphic file (type png)
+
+<use ./DL.PNG>
+Package pdftex.def Info: ./DL.PNG used on input line 272.
+(pdftex.def)             Requested size: 259.36462pt x 177.24583pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./Reactor_Anomaly.PNG>] [15 <./DL.PNG>]
+Overfull \hbox (4.91545pt too wide) in paragraph at lines 328--328
+[] 
+ []
+
+
+Overfull \hbox (27.88533pt too wide) detected at line 332
+[]\OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^W[] \OMS/cmsy/
+m/n/10.95 ! \OML/cmm/m/it/10.95 ^^W[]\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95
+ ^^N[] \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/10.95 4 [] [](\OML/cmm/m/it/10.95 U
+[]U[]U[]U[]\OT1/cmr/m/n/10.95 ) [][]([]) + 2 [] [](\OML/cmm/m/it/10.95 U[]U[]U[
+]U[]\OT1/cmr/m/n/10.95 ) []([])\OML/cmm/m/it/10.95 :
+ []
+
+[16] <./spectrum.png, id=380, 270.2898pt x 270.2898pt>
+File: ./spectrum.png Graphic file (type png)
+ <use ./spectrum.png>
+Package pdftex.def Info: ./spectrum.png used on input line 353.
+(pdftex.def)             Requested size: 194.52017pt x 194.5219pt.
+
+[17 <./spectrum.png (PNG copy)>]
+<./SterileOscillation.PNG, id=397, 1164.35pt x 448.67625pt>
+File: ./SterileOscillation.PNG Graphic file (type png)
+
+<use ./SterileOscillation.PNG>
+Package pdftex.def Info: ./SterileOscillation.PNG used on input line 395.
+(pdftex.def)             Requested size: 432.26999pt x 166.569pt.
+ [18] [19 <./SterileOscillation.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] <./LoverE.png, id=430, 999.735pt x 374.39874pt>
+File: ./LoverE.png Graphic file (type png)
+ <use ./LoverE.png>
+Package pdftex.def Info: ./LoverE.png used on input line 486.
+(pdftex.def)             Requested size: 211.81467pt x 78.56177pt.
+
+<./LoverE-2.png, id=432, 999.735pt x 374.39874pt>
+File: ./LoverE-2.png Graphic file (type png)
+ <use ./LoverE-2.png>
+Package pdftex.def Info: ./LoverE-2.png used on input line 487.
+(pdftex.def)             Requested size: 211.81467pt x 78.56177pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./sensitivity.PNG, id=438, 758.835pt x 667.49374pt>
+File: ./sensitivity.PNG Graphic file (type png)
+ <use ./sensitivity.PNG>
+Package pdftex.def Info: ./sensitivity.PNG used on input line 496.
+(pdftex.def)             Requested size: 259.36462pt x 228.14671pt.
+
+[21]
+<./antiNuSpectraComparison_VsSmoothModel_PROSPECT_v3.PNG, id=446, 592.2125pt x 
+283.0575pt>
+File: ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_v3.PNG Graphic file (typ
+e png)
+ <use ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_v3.PNG>
+Package pdftex.def Info: ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_v3.PN
+G used on input line 504.
+(pdftex.def)             Requested size: 211.81467pt x 100.16508pt.
+
+<./antiNuSpectraComparison_VsSmoothModel_PROSPECT_eres4p5pct_v3.PNG, id=448, 59
+6.2275pt x 297.11pt>
+File: ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_eres4p5pct_v3.PNG Graphi
+c file (type png)
+
+<use ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_eres4p5pct_v3.PNG>
+Package pdftex.def Info: ./antiNuSpectraComparison_VsSmoothModel_PROSPECT_eres4
+p5pct_v3.PNG used on input line 505.
+(pdftex.def)             Requested size: 211.81467pt x 104.52394pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./LoverE.png> <./LoverE-2.png> <./sensitivity.PNG>]
+<./Detector.PNG, id=462, 882.29625pt x 429.605pt>
+File: ./Detector.PNG Graphic file (type png)
+ <use ./Detector.PNG>
+Package pdftex.def Info: ./Detector.PNG used on input line 517.
+(pdftex.def)             Requested size: 389.04034pt x 189.42665pt.
+ [23 <./antiNuSpectraComparison_VsSmoothModel_PROSPECT_v3.PNG> <./antiNuSpectra
+Comparison_VsSmoothModel_PROSPECT_eres4p5pct_v3.PNG> <./Detector.PNG>]
+<./doublePMT.PNG, id=474, 762.85pt x 517.935pt>
+File: ./doublePMT.PNG Graphic file (type png)
+ <use ./doublePMT.PNG>
+Package pdftex.def Info: ./doublePMT.PNG used on input line 526.
+(pdftex.def)             Requested size: 259.36462pt x 176.09557pt.
+ [24 <./doublePMT.PNG>] <./Schedule.PNG, id=493, 758.835pt x 461.725pt>
+File: ./Schedule.PNG Graphic file (type png)
+
+<use ./Schedule.PNG>
+Package pdftex.def Info: ./Schedule.PNG used on input line 562.
+(pdftex.def)             Requested size: 432.26999pt x 263.02394pt.
+ [25 <./Schedule.PNG>] [26]
+<./waveform.PNG, id=516, 1139.25626pt x 758.835pt>
+File: ./waveform.PNG Graphic file (type png)
+ <use ./waveform.PNG>
+Package pdftex.def Info: ./waveform.PNG used on input line 585.
+(pdftex.def)             Requested size: 216.135pt x 143.96014pt.
+
+<./FOM.PNG, id=518, 958.58125pt x 609.27625pt>
+File: ./FOM.PNG Graphic file (type png)
+ <use ./FOM.PNG>
+Package pdftex.def Info: ./FOM.PNG used on input line 598.
+(pdftex.def)             Requested size: 259.36462pt x 164.85075pt.
+ [27 <./waveform.PNG> <./FOM.PNG>] <./frac.PNG, id=531, 994.71625pt x 328.22626
+pt>
+File: ./frac.PNG Graphic file (type png)
+
+<use ./frac.PNG>
+Package pdftex.def Info: ./frac.PNG used on input line 610.
+(pdftex.def)             Requested size: 389.04034pt x 128.37332pt.
+ <./covariance.PNG, id=533, 962.59625pt x 735.74875pt>
+File: ./covariance.PNG Graphic file (type png)
+
+<use ./covariance.PNG>
+Package pdftex.def Info: ./covariance.PNG used on input line 617.
+(pdftex.def)             Requested size: 216.135pt x 165.19952pt.
+ [28 <./frac.PNG> <./covariance.PNG>]
+<./1percent.PNG, id=548, 1365.1pt x 487.8225pt>
+File: ./1percent.PNG Graphic file (type png)
+ <use ./1percent.PNG>
+Package pdftex.def Info: ./1percent.PNG used on input line 641.
+(pdftex.def)             Requested size: 432.26999pt x 154.4688pt.
+ [29 <./1percent.PNG>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 653.
+
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 653.
+
+<./panelSchematic.PNG, id=559, 504.88625pt x 387.4475pt>
+File: ./panelSchematic.PNG Graphic file (type png)
+
+<use ./panelSchematic.PNG>
+Package pdftex.def Info: ./panelSchematic.PNG used on input line 664.
+(pdftex.def)             Requested size: 211.81467pt x 162.54356pt.
+
+<./panelPicture.PNG, id=561, 472.76625pt x 599.23875pt>
+File: ./panelPicture.PNG Graphic file (type png)
+
+<use ./panelPicture.PNG>
+Package pdftex.def Info: ./panelPicture.PNG used on input line 665.
+(pdftex.def)             Requested size: 168.58502pt x 213.68675pt.
+ [30 <./panelSchematic.PNG> <./panelPicture.PNG>]
+<./assemblySchematic.PNG, id=572, 927.465pt x 636.3775pt>
+File: ./assemblySchematic.PNG Graphic file (type png)
+
+<use ./assemblySchematic.PNG>
+Package pdftex.def Info: ./assemblySchematic.PNG used on input line 680.
+(pdftex.def)             Requested size: 246.39705pt x 169.05678pt.
+
+<./assemblyPicture.PNG, id=574, 678.535pt x 599.23875pt>
+File: ./assemblyPicture.PNG Graphic file (type png)
+
+<use ./assemblyPicture.PNG>
+Package pdftex.def Info: ./assemblyPicture.PNG used on input line 681.
+(pdftex.def)             Requested size: 181.5526pt x 160.33363pt.
+ [31 <./assemblySchematic.PNG> <./assemblyPicture.PNG>] [32] [33] (./Comprehens
+ive_Paper_Surukuchi.bbl [34] [35])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 731.
+ [36]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 731.
+
+(./Comprehensive_Paper_Surukuchi.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 731.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 731.
 Package rerunfilecheck Info: File `Comprehensive_Paper_Surukuchi.out' has not c
 hanged.
-(rerunfilecheck)             Checksum: 07B3A1BD70EFE330209D15F1D9520814;1892.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+(rerunfilecheck)             Checksum: 1C38E8CA3B612F4C6E833A763EB05FED;1163.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 731.
  ) 
 Here is how much of TeX's memory you used:
- 7669 strings out of 493117
- 108505 string characters out of 6135433
- 211765 words of memory out of 5000000
- 10968 multiletter control sequences out of 15000+600000
- 14773 words of font info for 54 fonts, out of 8000000 for 9000
+ 9556 strings out of 493117
+ 141283 string characters out of 6135433
+ 337206 words of memory out of 5000000
+ 12629 multiletter control sequences out of 15000+600000
+ 21335 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,47p,1036b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,15n,61p,2361b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Comprehensive_Paper_Surukuchi.pdf (4 pages, 143665 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on Comprehensive_Paper_Surukuchi.pdf (36 pages, 9895684 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 184 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 716 PDF objects out of 1000 (max. 8388607)
+ 576 compressed objects within 6 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,24 +1,19 @@
-\contentsline {section}{\numberline {1}Neutrino background and theory}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}Postulation and discovery of neutrino}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Uncovering of neutrino properties}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Role of reactors in neutrino experiments}{4}{subsection.1.3}
-\contentsline {section}{\numberline {2}Anomalies and potential for new physics}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Reactor Antineutrino anomaly }{4}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Various other observational discrepancies}{4}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Possible explanations for observed anomalies}{4}{subsection.2.3}
-\contentsline {section}{\numberline {3}Phenomenology}{4}{section.3}
-\contentsline {subsection}{\numberline {3.1}Neutrino and weak interactions(questionable if needed)}{4}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Neutrino Oscillations}{4}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Sterile neutrino }{4}{subsection.3.3}
-\contentsline {section}{\numberline {4}PROSPECT experiment}{4}{section.4}
-\contentsline {subsection}{\numberline {4.1}Physics Goals}{4}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Reactor location and backgrounds}{4}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Detector Design}{4}{subsection.4.3}
-\contentsline {section}{\numberline {5}Proposed PhD research}{4}{section.5}
-\contentsline {subsection}{\numberline {5.1}Oscillation measurement}{4}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Timeline}{4}{subsection.5.2}
-\contentsline {section}{\numberline {6}Current and past work}{4}{section.6}
-\contentsline {subsection}{\numberline {6.1}Characterization of detector material}{4}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Investigation of structural and mechanical properties of segmentation design}{4}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Identification of PSD method}{4}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Covariance matrix method for identification of effects of varying properties of the detector}{4}{subsection.6.4}
+\contentsline {section}{List of Figures}{3}{section*.1}
+\contentsline {section}{List of Tables}{3}{section*.2}
+\contentsline {section}{\nameref {sec:intro}}{4}{section*.4}
+\contentsline {section}{\numberline {1}Neutrino background}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Postulation and discovery}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Experimental discoveries}{8}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Role of reactors}{9}{subsection.1.3}
+\contentsline {section}{\numberline {2}Reactor antineutrino anomaly}{13}{section.2}
+\contentsline {section}{\numberline {3}Phenomenology}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Neutrinos and neutrino oscillations}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Reactor neutrinos}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Sterile neutrino}{19}{subsection.3.3}
+\contentsline {section}{\numberline {4}PROSPECT experiment}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Physics goals}{21}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Detector design}{23}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Current status}{25}{subsection.4.3}
+\contentsline {section}{\numberline {5}Current and past work}{26}{section.5}
+\contentsline {section}{\numberline {6}Proposed PhD research}{32}{section.6}
+\contentsline {section}{\numberline {7}Summary}{34}{section.7}

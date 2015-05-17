@@ -1,7 +1,204 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{2013arXiv1309.7647A}
+\bibitem{Formaggio}
+J.~Formaggio and G.~Zeller,
+\newblock Rev.Mod.Phys. {\bf 84}, 1307 (2012), 1305.7513.
+
+\bibitem{Hewett2012}
+J.~Hewett {\em et~al.},
+\newblock (2012), 1205.2671.
+
+\bibitem{particle2004particle}
+P.~D. Group {\em et~al.},
+\newblock {\em Particle physics booklet} (in the Americas, Australasia, or the
+  Far East, write to: Particle Data Group, Lawrence Berkeley National
+  Laboratory, 2004).
+
+\bibitem{chadwick1925xxii}
+J.~Chadwick and P.~Mercier,
+\newblock The London, Edinburgh, and Dublin Philosophical Magazine and Journal
+  of Science {\bf 50}, 208 (1925).
+
+\bibitem{rasetti1929alternating}
+F.~Rasetti,
+\newblock Nature {\bf 124}, 792 (1929).
+
+\bibitem{PauliLetter}
+W.~Pauli,
+\newblock Kronig and V. Weisskopf {\bf 2}, 1313.
+
+\bibitem{betaDecay}
+betaDecay,
+\newblock Z.Phys. {\bf 88}, 161 (1934).
+
+\bibitem{reines1956neutrino}
+F.~Reines and C.~L. Cowan,
+\newblock Nature {\bf 178}, 446 (1956).
+
+\bibitem{danby1962observation}
+G.~Danby {\em et~al.},
+\newblock Physical Review Letters {\bf 9}, 36 (1962).
+
+\bibitem{davis1955attempt}
+R.~Davis~Jr,
+\newblock Physical Review {\bf 97}, 766 (1955).
+
+\bibitem{davis1968search}
+R.~Davis~Jr, D.~S. Harmer, and K.~C. Hoffman,
+\newblock Physical Review Letters {\bf 20}, 1205 (1968).
+
+\bibitem{bahcall1964solar}
+J.~N. Bahcall,
+\newblock Physical Review Letters {\bf 12}, 300 (1964).
+
+\bibitem{gribov1969neutrino}
+V.~Gribov and B.~Pontecorvo,
+\newblock Physics Letters B {\bf 28}, 493 (1969).
+
+\bibitem{maki1962remarks}
+Z.~Maki, M.~Nakagawa, and S.~Sakata,
+\newblock Progress of Theoretical Physics {\bf 28}, 870 (1962).
+
+\bibitem{reines1980evidence}
+F.~Reines, H.~Sobel, and E.~Pasierb,
+\newblock Physical Review Letters {\bf 45}, 1307 (1980).
+
+\bibitem{abdurashitov1994results}
+J.~Abdurashitov {\em et~al.},
+\newblock Physics Letters B {\bf 328}, 234 (1994).
+
+\bibitem{hampel1999gallex}
+W.~Hampel {\em et~al.},
+\newblock Physics Letters B {\bf 447}, 127 (1999).
+
+\bibitem{bellotti2001first}
+E.~Bellotti,
+\newblock Nuclear Physics B-Proceedings Supplements {\bf 91}, 44 (2001).
+
+\bibitem{hatakeyama1998measurement}
+S.~Hatakeyama {\em et~al.},
+\newblock Physical Review Letters {\bf 81}, 2016 (1998).
+
+\bibitem{super1999fukuda}
+S.-K. Collaboration {\em et~al.},
+\newblock Phys. Rev. Lett {\bf 82}, 1810 (1999).
+
+\bibitem{ahmad2002direct}
+Q.~Ahmad {\em et~al.},
+\newblock Physical Review Letters {\bf 89}, 011301 (2002).
+
+\bibitem{kodama2001observation}
+K.~Kodama {\em et~al.},
+\newblock Physics Letters B {\bf 504}, 218 (2001).
+
+\bibitem{neutrinoreactorsvogel}
+P.~{Vogel}, L.~{Wen}, and C.~{Zhang},
+\newblock ArXiv e-prints  (2015), 1503.01059.
+
+\bibitem{PhysRevD.24.1097}
+H.~Kwon {\em et~al.},
+\newblock Phys. Rev. D {\bf 24}, 1097 (1981).
+
+\bibitem{Schreckenbach1985325}
+K.~Schreckenbach, G.~Colvin, W.~Gelletly, and F.~V. Feilitzsch,
+\newblock Physics Letters B {\bf 160}, 325  (1985).
+
+\bibitem{kwon1981experimental}
+Grenoble-1 Univ., 38 (France). Inst. des Sciences Nucleaires Report No.,
+\newblock , 1981 (unpublished).
+
+\bibitem{achkar1995search}
+B.~Achkar {\em et~al.},
+\newblock Nuclear Physics B {\bf 434}, 503 (1995).
+
+\bibitem{apollonio1999limits}
+M.~Apollonio {\em et~al.},
+\newblock Physics Letters B {\bf 466}, 415 (1999).
+
+\bibitem{boehm1999palo}
+F.~Boehm {\em et~al.},
+\newblock Nuclear Physics B-Proceedings Supplements {\bf 77}, 166 (1999).
+
+\bibitem{araki2005measurement}
+T.~Araki {\em et~al.},
+\newblock Physical Review Letters {\bf 94}, 081801 (2005).
+
+\bibitem{gando2013reactor}
+A.~Gando {\em et~al.},
+\newblock Physical Review D {\bf 88}, 033001 (2013).
+
+\bibitem{abe2011indication}
+K.~Abe {\em et~al.},
+\newblock Physical Review Letters {\bf 107}, 041801 (2011).
+
+\bibitem{Minos}
+P.~Adamson {\em et~al.},
+\newblock Phys. Rev. Lett. {\bf 107}, 181802 (2011).
+
+\bibitem{DoubleChooz}
+Y.~Abe {\em et~al.},
+\newblock Phys. Rev. Lett. {\bf 108}, 131801 (2012).
+
+\bibitem{DayabayZero}
+F.~P. An {\em et~al.},
+\newblock Phys. Rev. Lett. {\bf 108}, 171803 (2012).
+
+\bibitem{an2013improved}
+F.~An {\em et~al.},
+\newblock Chinese Physics C {\bf 37}, 011001 (2013).
+
+\bibitem{Vogelconversion}
+P.~Vogel,
+\newblock Phys. Rev. C {\bf 76}, 025504 (2007).
+
+\bibitem{2011reactorspectrum}
+T.~A. Mueller {\em et~al.},
+\newblock Phys. Rev. C {\bf 83}, 054615 (2011).
+
+\bibitem{mention2011reactor}
+G.~Mention {\em et~al.},
+\newblock Physical Review D {\bf 83}, 073006 (2011).
+
+\bibitem{Huber}
+P.~Huber,
+\newblock Phys. Rev. C {\bf 84}, 024617 (2011).
+
+\bibitem{aguilar2001evidence}
+A.~Aguilar {\em et~al.},
+\newblock Physical Review D {\bf 64}, 112007 (2001).
+
+\bibitem{aguilar2007search}
+A.~Aguilar-Arevalo {\em et~al.},
+\newblock Physical review letters {\bf 98}, 231801 (2007).
+
+\bibitem{DLSpectrum}
+A.~Dwyer, D.\ and J.~Langford, T.\,
+\newblock Phys. Rev. Lett. {\bf 114}, 012502 (2015).
+
+\bibitem{Hayes2013}
+A.~Hayes, J.~Friar, G.~Garvey, G.~Jungman, and G.~Jonkmans,
+\newblock Phys.Rev.Lett. {\bf 112}, 202501 (2014), 1309.4146.
+
+\bibitem{ensdf2003online}
+N.~ENSDF,
+\newblock Online data service, ensdf database, 2003.
+
+\bibitem{Jocher2013131}
+G.~R. Jocher {\em et~al.},
+\newblock Physics Reports {\bf 527}, 131  (2013),
+\newblock Theoretical Antineutrino Detection, Direction and Ranging at Long
+  Distances.
+
+\bibitem{vogel1989neutrino}
+P.~Vogel and J.~Engel,
+\newblock Physical Review D {\bf 39}, 3378 (1989).
+
+\bibitem{PROSPECT}
 J.~{Ashenfelter} {\em et~al.},
 \newblock ArXiv e-prints  (2013), 1309.7647.
+
+\bibitem{knoll2010radiation}
+G.~F. Knoll,
+\newblock {\em Radiation detection and measurement} (John Wiley \& Sons, 2010).
 
 \end{thebibliography}
